@@ -1,0 +1,14 @@
+table, th, td{
+    border: 1px solid black;
+}
+table{
+    width: fit-content;
+    margin: auto;
+}
+th,td{
+    margin: 10px;
+    padding: 10px;
+}
+body{
+    background-color: skyblue;
+}
